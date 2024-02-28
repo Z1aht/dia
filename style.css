@@ -1,5 +1,3 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap')
 :root {
     --cor-de-fundo: #CBB699;
     --verde: #6FFF57;
@@ -8,4 +6,6 @@
     --botao-inativo: rgba(58, 55, 94, 0.5);
     --texto-fundo: rgba(58, 55, 94, 0.3);
 }
-</style>
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap')
+<
