@@ -61,8 +61,8 @@ function atualizaCronometro(){
 }
 
 function comecaCronometro(){
-    atualizaCronometro();
-    setInterval(atualizaCronometro,1000);
+    for(let i=0, i<contadores.lenght;i++);
+    contadores[i].terxtCOntebt=calculaTempo(tempos[i];
 }
 
 comecaCronometro();
